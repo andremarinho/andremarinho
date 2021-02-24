@@ -89,7 +89,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
