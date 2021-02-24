@@ -4,7 +4,7 @@
   </a>
   <a href="#">
     <img align="center" width="510" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" />
-	</a></p>
+	
   </a>
 </p>
 
