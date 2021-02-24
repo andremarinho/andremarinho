@@ -27,7 +27,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Neon Pagamentos S/A**.
+- 👨‍💻 I'm currently working full-time at **Indra Company**.
 - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
 - 💙 Interests: games 👾, cats (Loki 🐱).
 
