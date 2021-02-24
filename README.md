@@ -139,5 +139,5 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/andr%C3%A9-marinho-050594143/">LinkedIn</a>.
 - 🐦 Following me on <a href="https://twitter.com/wnqueiroz/">Twitter</a>.
