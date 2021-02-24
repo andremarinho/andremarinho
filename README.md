@@ -3,8 +3,8 @@
     <img align="center" width="280" src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="banner.gif" />
-	<iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-	embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG">via 	GIPHY</a></p>
+    <img align="center" width="510" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" />
+	</a></p>
   </a>
 </p>
 
