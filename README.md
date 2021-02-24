@@ -57,7 +57,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -97,7 +97,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -121,7 +121,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
@@ -129,7 +129,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
       alt="typescript"
       width="40"
       height="40"
