@@ -28,8 +28,8 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Indra Company**.
-- 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
+- 🌱 Learning more about and studying: **Angular, Java and MongoDb.
+- 💙 Interests: books.
 
 ### Languages and Tools
 
