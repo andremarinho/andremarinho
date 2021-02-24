@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
       alt="aws"
       width="40"
       height="40"
@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -105,7 +105,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
       width="40"
       height="40"
