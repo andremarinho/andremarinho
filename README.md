@@ -135,6 +135,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+      alt="Linux"
+      width="40"
+      height="40"
+    />
+  </a>	
 </p>
 
 ### Find me around the web 🌎:
