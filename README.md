@@ -3,7 +3,7 @@
     <img align="center" width="280" src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" />
+    <img align="center" width="310" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" />
 	
   </a>
 </p>
