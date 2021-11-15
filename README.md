@@ -28,7 +28,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Indra Company**.
+- 👨‍💻 I'm currently working full-time at **Basis**.
 - 🌱 Learning more about and studying: **Angular, Java and MongoDb.
 - 💙 Interests: books.
 
